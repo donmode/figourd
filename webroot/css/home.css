@@ -15,6 +15,10 @@
     font-size: 14px;
     line-height: 27px;
     color: #404041;
+    background-image: url('/img/bg-now.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 a {
